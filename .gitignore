@@ -1,0 +1,11 @@
+__pycache__/blog.cpython-38.pyc
+app/__pycache__/__init__.cpython-38.pyc
+app/__pycache__/forms.cpython-38.pyc
+app/__pycache__/models.cpython-38.pyc
+app/__pycache__/routes.cpython-38.pyc
+.idea/blog.iml
+.idea/dataSources.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/inspectionProfiles/profiles_settings.xml
+__pycache__/config.cpython-38.pyc
