@@ -8,4 +8,5 @@ app/__pycache__/routes.cpython-38.pyc
 .idea/misc.xml
 .idea/modules.xml
 .idea/inspectionProfiles/profiles_settings.xml
+.idea/.gitignore
 __pycache__/config.cpython-38.pyc
